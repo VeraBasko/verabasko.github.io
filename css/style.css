@@ -436,7 +436,9 @@ label .glyphicon {
   background-size: cover; /* Масштабируем фон */
 }
 .help-img{
-	width: 500px;
+	max-height: 300px;
+	max-width: 100%
+
 }
 
 /*Меню*/
